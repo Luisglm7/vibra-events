@@ -1,3 +1,5 @@
+![alt text](/assets/img/readme/Vibra%20eventos.jpg)
+
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 # Nome do Projeto
 **Descrição:**
@@ -19,6 +21,12 @@ O projeto resolve o problema da falta de um local consolidado para divulgação 
  - Principais informações de seus artistas favoritos.
 ## Tecnologias Utilizadas
 - **Linguagem/Frameworks:**
+
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 ## Autores
 Mencione o nome dos alunos responsáveis pelo desenvolvimento do projeto e seus respectivos contatos.
 - Vinicius Dias Viana - GitHub - vinicius.diasviana.senai@gmail.com
